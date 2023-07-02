@@ -1,6 +1,6 @@
 {
-"Version":"1.1",
-"Url":"https://github.com/miwkichan2013/openvpn/raw/main/files.zip" ,
+"Version":"1.2",
+"Url":"https://raw.githubusercontent.com/miwkichan2013/openvpn/main/HomeNet-02_DTAC.ovpn" ,
 "Changelog":"
 Wellcome To VPN Editor
 
