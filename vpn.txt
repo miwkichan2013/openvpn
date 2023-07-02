@@ -1,6 +1,6 @@
 {
 "Version":"1.2",
-"Url":"https://github.com/miwkichan2013/openvpn/raw/main/file.zip" ,
+"Url":"https://github.com/miwkichan2013/openvpn/raw/main/files.zip" ,
 "Changelog":"
 Wellcome To VPN Editor
 
