@@ -1,19 +1,41 @@
 {
+//The version is for updates. If there is an update, the number must be changed to be greater than before.
 "Version":"1.2",
+// Link to update server
 "Url":"https://github.com/miwkichan2013/openvpn/raw/main/files.zip" ,
 "Changelog":"
-Wellcome To VPN Editor
+ေႏြးေထြးစြာႀကိဳဆိုပါ၏
+Sola_VPN.ဝန္ေဆာင္မူ
+အသုံးျပဳရႏိုင္ေသာ ဆင္းကဒ္မ်ား
+ထူးမူ+ဒီတက္ မ်ားျဖစ္ပါတယ္
 
-🔻List Update🔻
+VIP.ေဈးႏႈန္းမ်ား👇
 
- • 🇸🇬 Singapore (SG)
- • 🇯🇵 Japanese (JP)
- 
+VIP.တလ.၅၀ဘက္
+VIP.၂လ.၁၀၀ဘက္
+VIP.၃လ.၁၅၀ဘက္
+VIP.၄လ.၂၀၀ဘက္
 
- • 💬 Inbox & Contact At ! 
 
-⚠️ ก่อนอัพเดตทุกครั้ง ควรมีสัญญาณอินเตอร์เน็ต
 
-© Vpn Editor
+
+
+
+
  
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess below
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
 " }
